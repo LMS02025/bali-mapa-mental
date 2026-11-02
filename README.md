@@ -34,6 +34,7 @@ Para pasar de una vista a otra, usa **✦ Mapa mental** (tecla `G`) en el visor 
 | **Vista 3D y sonido** | Plano en perspectiva con paralaje, tarjetas con relieve y señales sonoras sintetizadas (silenciables). |
 | **Recorrido** | Presentación automática de los 15 artículos más críticos. |
 | **Exportación** | Imagen PNG o SVG vectorial de la vista desplegada. |
+| **Tarjeta DS15** | Decreto Supremo MOP N° 15/2026 que adjudica la concesión a Sacyr Agua S.L. (Diario Oficial N° 44.422, 11-04-2026). Sus 30 numerales cuelgan de la tarjeta DS15; el N° 24 se divide en 21 obligaciones y 6 derechos. Cada numeral enlaza con los artículos de las BALI que cita, y cada artículo muestra los numerales del decreto que lo ratifican. |
 | **Enlaces directos** | `index.html#a-1.7.5` abre el visor en ese artículo; `index.html#mapa/1.7.5` abre el mapa con ese artículo seleccionado. |
 
 Teclas propias del mapa: flechas para navegar la jerarquía, `Enter` para desplegar o contraer, `1`–`4` para elegir el nivel, `0` para ajustar la vista, `C` para centrar, `D` para la vista 3D, `R` para los flujos entre secciones, `P` para el panel, `T` para el tema y `?` para la ayuda.
